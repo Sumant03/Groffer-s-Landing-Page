@@ -1,0 +1,113 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background: rgb(245, 235, 235);
+}
+.main{
+    display:flex;
+    justify-content:space-between;
+    display:flex;
+    justify-content:space-between;
+    height:70px;
+
+}
+nav{
+    margin-top: 20px;
+    
+}
+nav input{
+    border-radius:30px;
+}
+.main a{
+    
+    margin:30px;
+    text-decoration: none;
+    color:white;
+    
+}
+.main,.image{
+    background:rgb(63, 58, 58);
+}
+.main{
+    border:2px solid orange;
+
+}
+.main a input{
+    height:30px;
+    width:800px;
+}
+.new {
+ width:80%;
+ border:15px solid orange;
+ margin-left:250px;
+ box-shadow: 2px right black;
+ margin:auto;
+
+}
+.div{
+    margin-top:20px;
+    margin-left:140px;  
+}
+.products {
+    border:2px solid orange;
+    width:82%;
+    height:265px;
+    margin-left:140px;
+    margin-top:20px;
+    background: white;
+
+    
+}
+.products a{
+    
+    padding:20px;
+    
+}
+.products2 {
+    border:2px solid orange;
+    width:82%;
+    margin-left:140px;
+    margin-top: 20px;
+    height:265px;
+    background: white;
+    
+}
+.part1 a img{
+    border:1px solid orange;
+    margin: 40px;
+    position: relative;
+}
+.products2 a{
+    
+    padding:20px;
+}
+.part2 a img{
+    border:1px solid orange;
+}
+.products3{
+    
+    width:82%;
+    margin-top:20px;
+    margin-left:140px;
+    border:2px solid orange;
+    background: white;
+}
+.product4{
+    border:2px solid orange;
+    background: white;
+    width:82%;
+    margin-left:140px;
+    margin-top: 20px;
+    display:flex;}
+.bottom{
+    background: white;
+    width:100%;
+    font-size: 20px;
+    margin-top:20px;
+}
+
+
+
+
